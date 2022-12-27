@@ -15,8 +15,8 @@ __Higher cohesion__ helps attrain better adherence to the SRP. :heavy_check_mark
 >To look for classes that are not very cohesive, we must to find classes like:
 
 >- Have many different methods
->- are changed frequently
->- never stop growing
+>- Are changed frequently
+>- Never stop growing
 >- Have a many different imports classes
 
 ### Coupling
