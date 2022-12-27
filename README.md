@@ -17,6 +17,7 @@ __Higher cohesion__ helps attrain better adherence to the SRP. :heavy_check_mark
 >- Have many different methods
 >- are changed frequently
 >- never stop growing
+>- Have a many different imports classes
 
 ### Coupling
 
