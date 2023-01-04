@@ -41,7 +41,7 @@ This is a problem, because for each new feature, we would need to create a new o
 
 ![image](https://user-images.githubusercontent.com/61791877/210023052-33c094fe-30cb-44aa-8f9f-d7f2c15a8310.png)
 
-To solve this problem, we can create an interface and the same will be implemented for the classes. After, this interface will be passed in the constructor parameter, avoiding overloaded methods.
+To solve this problem, we can create an interface and the same will be implemented for the classes. After, this interface will be passed in the constructor parameter(example: HomeInsuranceCustomerProfile), avoiding overloaded methods.
 
 ![image](https://user-images.githubusercontent.com/61791877/210023183-f172a5fe-c682-4e65-90aa-2d2851e2fb7e.png)
 
