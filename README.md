@@ -67,3 +67,22 @@ To solve this problem, we can create an interface and the same will be implement
 ![image](https://user-images.githubusercontent.com/61791877/211125093-6c9c942c-b656-4e4f-968c-3eafdeccbad6.png)
 
 ![image](https://user-images.githubusercontent.com/61791877/211125117-e082e1a5-706d-46f9-85b3-45625eefa9dc.png)
+
+### The Solution 1
+
+![image](https://user-images.githubusercontent.com/61791877/211125569-a681b040-8b99-4ebd-a52f-fab341860d75.png)
+
+![image](https://user-images.githubusercontent.com/61791877/211125591-7efee452-f741-44ee-ac35-72dc980eff56.png)
+
+### The problem
+
+Here, we should deal with all Product objets, without make a typecast to identify the class that extends it.
+
+![image](https://user-images.githubusercontent.com/61791877/211125844-3da24964-cf80-49a2-b56a-2d0f3a1de071.png)
+
+### The Solution 2
+
+![image](https://user-images.githubusercontent.com/61791877/211126733-fa4215ca-530f-446b-a423-34e8177418b4.png)
+
+![image](https://user-images.githubusercontent.com/61791877/211126764-d4e052ef-d705-408d-8a23-849ba63a332b.png)
+
