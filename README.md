@@ -58,4 +58,12 @@ To solve this problem, we can create an interface and the same will be implement
 
 ---
 
+## Liskov Substitution Principle
 
+*"Object should be replacedable with their subtypes without affecting the correctness of the program."*
+
+### The problem
+
+![image](https://user-images.githubusercontent.com/61791877/211125093-6c9c942c-b656-4e4f-968c-3eafdeccbad6.png)
+
+![image](https://user-images.githubusercontent.com/61791877/211125117-e082e1a5-706d-46f9-85b3-45625eefa9dc.png)
