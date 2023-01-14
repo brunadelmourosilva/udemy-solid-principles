@@ -86,3 +86,20 @@ Here, we should deal with all Product objets, without make a typecast to identif
 
 ![image](https://user-images.githubusercontent.com/61791877/211126764-d4e052ef-d705-408d-8a23-849ba63a332b.png)
 
+---
+
+## Interface Segregation Principle
+
+*"No client should be forced to depend on methods it does not use."*
+
+### The problem
+
+![image](https://user-images.githubusercontent.com/61791877/212438991-3af1621f-dd5a-477b-904b-98f11ea04314.png)
+
+### The solution
+
+![image](https://user-images.githubusercontent.com/61791877/212439334-31b09d55-3a94-412d-a2f7-ff03b8a8899b.png)
+
+### Techniques to identify violations of ISP
+
+![image](https://user-images.githubusercontent.com/61791877/212439707-02185b6c-291c-47f2-80cd-81a5d4f82ce6.png)
