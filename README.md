@@ -103,3 +103,33 @@ Here, we should deal with all Product objets, without make a typecast to identif
 ### Techniques to identify violations of ISP
 
 ![image](https://user-images.githubusercontent.com/61791877/212439707-02185b6c-291c-47f2-80cd-81a5d4f82ce6.png)
+
+---
+
+## Dependency Inversion Principle
+
+*"High-level modules should not depend on low-level modules. Both should depend on abstractions."*
+
+*"Abstractions should not depend on details. Details should depend on abstractions."*
+
+### The problem
+
+![image](https://user-images.githubusercontent.com/61791877/212784268-845e6146-9797-4d86-a1af-09c0366f4c48.png)
+
+
+### The solution - Dependency inversion
+
+![image](https://user-images.githubusercontent.com/61791877/212784301-b6726b71-2464-4307-9436-8677b98e4e79.png)
+
+### Dependency injection
+
+The injection will be made in the ProductCatalog through the constructor.
+
+![image](https://user-images.githubusercontent.com/61791877/212784734-9da12014-06e0-4976-b8d0-d1988792dd00.png)
+
+### Iversion of control
+
+Insert the interface in the application and through the dependency injection, we can instantiate this implementation(under the table) without specify this what is the implementation.
+
+![image](https://user-images.githubusercontent.com/61791877/212785599-a51ea803-c1f6-4f21-8397-86737630c02f.png)
+
