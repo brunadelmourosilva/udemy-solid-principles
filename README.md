@@ -131,5 +131,7 @@ The injection will be made in the ProductCatalog through the constructor.
 
 Insert the interface in the application and through the dependency injection, we can instantiate this implementation(under the table) without specify this what is the implementation.
 
+Example: https://www.geeksforgeeks.org/spring-understanding-inversion-of-control-with-example/
+
 ![image](https://user-images.githubusercontent.com/61791877/212785599-a51ea803-c1f6-4f21-8397-86737630c02f.png)
 
