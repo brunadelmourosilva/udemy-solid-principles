@@ -1,4 +1,4 @@
-# SOLID Principles: Introducing Software Architecture & Design
+# SOLID Principles: Introducing Software Architecture & Design ✅
 
 ## Single Responsability Principle
 
